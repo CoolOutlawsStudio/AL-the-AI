@@ -7,6 +7,9 @@ AL is a pathfinding AI who just wants to get to the end. in html form and sb3 fo
 # How AL works!
 AL does random movements, records them on a list, and the closer it gets to the end the more grass (points) it gets! if AL's run gets more grass then the last one then AL does that last run again but at the end he does some random movements to get more grass. If i remember correctly AL only does 5-10 extra movements. if he makes it to the end the game breaks sadly :[
 
+# DISCLAMER
+AL will crash when he gets to level 2, AL taked a while to save its movements, and I made this on scratch dont judge.
+
 # boring copywrite stuff
 
 if you look at the code for the HTML file you will see that Penguinmod put a copywrite thing on it. i do not know how to remove it. i used penguinmod packager to turn this project into html. so there you go.
